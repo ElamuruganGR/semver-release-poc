@@ -1,0 +1,30 @@
+{
+  "name": "semver-release-poc",
+  "version": "1.0.0",
+  "description": "SEMVER POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElamuruganGR/semver-release-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElamuruganGR/semver-release-poc/issues"
+  },
+  "homepage": "https://github.com/ElamuruganGR/semver-release-poc#readme",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@semantic-release/commit-analyzer": "^9.0.2",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^8.0.7",
+    "@semantic-release/release-notes-generator": "^10.0.3",
+    "semantic-release": "^20.1.0"
+  }
+}
