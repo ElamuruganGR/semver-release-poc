@@ -18,7 +18,5 @@
             }
         ]
     ],
-    "dryRun": false,
-    "ci": true,
     "debug": false
 }
