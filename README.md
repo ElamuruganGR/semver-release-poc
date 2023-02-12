@@ -1,1 +1,1 @@
-SEMVER POC
+SEMVER release POC
